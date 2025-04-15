@@ -15,8 +15,8 @@ const projects = [
     description:
       "A personal portfolio website designed to showcase my skills, featured projects, and professional experience.It provides a clean, responsive, and user-friendly interface for recruiters and collaborators to explore my work.",
     technologies: "ReactJS, Tailwind CSS, JavaScript, HTML.",
-    github: "https://github.com/yourusername/portfolio",
-    liveDemo: "https://yourportfolio.com",
+    github: "https://github.com/AbhishekKumar122/portfolio",
+    liveDemo: "https://cerulean-conkies-15ea83.netlify.app/",
   },
 
   {
@@ -25,7 +25,7 @@ const projects = [
       "Newsmania is a dynamic news application that curates the latest headlines and top stories across various categories.It fetches real-time news from external sources and offers a clean, responsive interface for seamless reading.",
     technologies: "ReactJS, Bootstrap, NewsAPI.",
     github: "https://github.com/AbhishekKumar122/my-NewsMania",
-    liveDemo: "https://abhishekkumar122.github.io/my-NewsMania/",
+    liveDemo: "https://precious-dieffenbachia-72d60d.netlify.app/",
   },
   {
     name: "TextUtils",
