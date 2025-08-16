@@ -45,7 +45,7 @@ function Home() {
             <div className="flex flex-col md:flex-row justify-center items-center space-y-6 md:space-y-0">
               <div className="space-y-2">
                 <button className="mt-4 mb-2 px-5 py-3 rounded-full bg-purple-500 text-white hover:bg-purple-600">
-                 <a href="/Abhishek_Kumar22.pdf" download="Abhishek_Kumar_Resume.pdf" className="text-white">
+                 <a href="/Abhishek_Kumar122.pdf" download="Abhishek_Kumar_Resume.pdf" className="text-white">
                   Download Resume</a>
                   
                 </button>
